@@ -19,7 +19,7 @@ A clean and elegant showcase of the Harafjeya platform.
 ---
 
 ## Live Demo
-[Visit Harafjeya](https://harafjeya.com)
+[Visit Harafjeya](https://harafjya.com)
 
 ---
 
