@@ -42,6 +42,6 @@ A clean and elegant showcase of the Harafjeya platform.
 
 ---
 
-## Social Media (optional)
-- Instagram: [@harafjeya](https://instagram.com/harafjeya)
-- Facebook: [Harafjeya](https://facebook.com/harafjeya)
+## Social Media
+- Instagram: [@harafjya](https://www.instagram.com/harafjya/)
+- Facebook: [Harafjeya](https://www.facebook.com/profile.php?id=61586683182284)
