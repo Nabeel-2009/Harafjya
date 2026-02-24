@@ -35,7 +35,7 @@ A clean and elegant showcase of the Harafjeya platform.
   <img src="screenshots/about.png" width="600" alt="About Screenshot">
 </p>
 
-### Contact / Dashboard Page
+### Contact Page
 <p align="center">
   <img src="screenshots/contact.png" width="600" alt="Contact Screenshot">
 </p>
