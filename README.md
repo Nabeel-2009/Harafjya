@@ -1,6 +1,6 @@
-# Harafjeya Website
+# Harafjya Website
 
-A clean and elegant showcase of the Harafjeya platform.
+A clean and elegant showcase of the Harafjya platform.
 
 ---
 
@@ -19,7 +19,7 @@ A clean and elegant showcase of the Harafjeya platform.
 ---
 
 ## Live Demo
-[Visit Harafjeya](https://harafjya.com)
+[Visit Harafjثya](https://harafjya.com)
 
 ---
 
