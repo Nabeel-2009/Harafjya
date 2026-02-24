@@ -44,4 +44,4 @@ A clean and elegant showcase of the Harafjya platform.
 
 ## Social Media
 - Instagram: [@harafjya](https://www.instagram.com/harafjya/)
-- Facebook: [Harafjeya](https://www.facebook.com/profile.php?id=61586683182284)
+- Facebook: [Harafjya](https://www.facebook.com/profile.php?id=61586683182284)
